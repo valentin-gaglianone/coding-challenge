@@ -34,12 +34,12 @@ Utilizando Numpy,
 
 ## Ejercicio_3
 Se requiere cargar un archivo de audio para extraer información que permitan caracterizar su contenido.
-1. Cargar el archivo de audio y leer su metadat.
+1. Cargar el archivo de audio y leer su metadata.
 2. Obtener los valores máximos y mínimos.
 3. Obtener el valor promedio de la señal y representarlo mediante una línea horizontal en el gráfico.
 
 ## Ejercicio_4
-Crear una función para aplicar la convolución entre dos señales de audio (Por ejemplo usando [numpy.convolve](https://numpy.org/doc/1.19/reference/generated/numpy.convolve.html) y [scipy.signal.fftconvolve](https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.fftconvolve.html#scipy.signal.fftconvolve)). La función debe ser capaz de elegir un método u otro en función de la cantidad de muestras (> 500).
+Crear una función para aplicar la convolución entre dos señales de audio (Por ejemplo usando [numpy.convolve](https://numpy.org/doc/1.19/reference/generated/numpy.convolve.html) y [scipy.signal.fftconvolve](https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.fftconvolve.html#scipy.signal.fftconvolve)). La función debe ser capaz de elegir un método u otro en función de la cantidad de muestras de cada señal(> 500).
 
 Debe cumplir con: 
 * Dos argumentos de entrada como mínimo: audioData_1 (valores de amplitud de la señal 1) y audioData_2 (valores de amplitud de la señal 2).

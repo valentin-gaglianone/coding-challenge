@@ -1,10 +1,10 @@
 # 🚀 Coding Challenge - Python 🐍 
-¡Bienvenidos al desafío de Python del curso de [Señales y Sistemas de la UNTREF](https://github.com/maxiyommi/signal-systems)! En este desafío, los alumnos tendrán la oportunidad de demostrar sus habilidades en programación utilizando Python. Cada solución deberá ser enviada mediante un Pull Request en este repositorio público a una rama específica en este repositorio.
+¡Bienvenidos al desafío de Python del curso de [Señales y Sistemas de la UNTREF](https://github.com/maxiyommi/signal-systems)! En este desafío, los alumnos tendrán la oportunidad de demostrar sus habilidades en programación utilizando Python. Cada solución deberá ser enviada mediante un Pull Request en este repositorio público a una rama específica.
 
 ## Instrucciones 📝
-La consigna se encuentra en la carpeta `/consignas` en el notebook con nombre de la fecha del corriente año (Ej:`/consignas/junio_2023.ipynb`)
+La consigna se encuentra en la carpeta `/consignas` en un archivo .md con nombre de la fecha del corriente año (Ej:`/consignas/junio_2023.md`)
 1. Cada alumno deberá hacer un [Fork](fork_doc.md) de este repositorio público.
-2. Dentro de su Fork, cada alumno deberá crear una carpeta con su nombre y apellido en minúsculas separados por guiones medios: <nombre_alumno>-<apellido_alumno>.
+2. Dentro de su Fork, cada alumno deberá crear una rama con su nombre y apellido en minúsculas separados por guiones medios: <nombre_alumno>-<apellido_alumno>.
     * Por ejemplo: juan-perez
 3. Dentro de su rama, cada alumno deberá crear una carpeta con su nombre y apellido en minúsculas separados por guiones bajos.
     * Por ejemplo: juan_perez
@@ -19,12 +19,12 @@ El repositorio tendrá la siguiente estructura:
   - readme.md
 - branch <nombre_alumno>-<apellido_alumno>
   - <nombre_alumno>_<apellido_alumno>
-    - solucion.py
+    - ejercicio_1.py
 - ...
 ```
 
 ## Cómo enviar tu solución mediante un Pull Request  📤
-1. Haz un Fork de este repositorio público.
+1. Haz un [Fork](fork_doc.md) de este repositorio público.
 2. Clona tu Fork en tu máquina local utilizando el comando:
 ``` bash
 git clone <url_del_repositorio>
