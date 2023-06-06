@@ -15,12 +15,14 @@ A continuación se presentan varios puntos que deben ser completados en distinto
 ## Ejercicio_1
 Dada la siguiente función continua:
 
-$$f(x)=\begin{cases} 
+$$
+f(x)=\begin{cases} 
 0, \text{ para } x<=0 \\  
 x, \text{  para } 0<x<=1 \\
 2-(x), \text{ para } 1<x<2 \\ 
 0, \text{ para } x>=2 \\  
-\end{cases}$$
+\end{cases}
+$$
 
 1. Expresar la función de manera simbólica.
 2. Graficar la expresión simbólica.
